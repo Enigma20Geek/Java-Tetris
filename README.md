@@ -7,8 +7,8 @@ The Game includes all functionalities from original game like showing next shape
 I used Java Swing Library for GUI and threads for smoother experience. I hope you like it.;)
 
 Controls:
-A : Move left.
-D : Move right.
+A : Move left<br/>
+D : Move right<br/>
 S(Hold) : Move down faster
 Space : Rotate shape
 H : Hold shape

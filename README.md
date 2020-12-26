@@ -8,6 +8,7 @@ I used Java Swing Library for GUI and threads for smoother experience. I hope yo
 
 Controls:
 A : Move left
+
 D : Move right
 S(Hold) : Move down faster
 Space : Rotate shape

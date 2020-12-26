@@ -13,4 +13,5 @@ S(Hold) : Move down faster<br/>
 Space : Rotate shape<br/>
 H : Hold shape<br/>
 
-![](Screenshot.png)
+<img src = "Screenshot.png" height=500>
+<img src = "Screenshot1.png" height=500>

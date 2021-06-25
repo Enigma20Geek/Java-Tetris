@@ -6,7 +6,7 @@ The Game includes all functionalities from original game like showing next shape
 
 I used Java Swing Library for GUI and threads for smoother experience. I hope you like it.;)
 
-Controls:<br/>
+### Controls:<br/>
 A : Move left<br/>
 D : Move right<br/>
 S(Hold) : Move down faster<br/>
